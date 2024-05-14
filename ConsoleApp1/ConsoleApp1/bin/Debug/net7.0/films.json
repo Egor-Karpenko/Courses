@@ -1,0 +1,35 @@
+[
+    {
+        "Code": 1,
+        "Title": "Inception",
+        "Director": "Christopher Nolan",
+        "Year": 2010,
+        "LeadActor": "Leonardo DiCaprio",
+        "Format": "Blu-Ray",
+        "Price": 15.99,
+        "DeliveryMethod": "Нова пошта",
+        "PaymentMethod": "Готівка при отриманні"
+    },
+	{
+        "Code": 2,
+        "Title": "Inception",
+        "Director": "Christopher Nolan",
+        "Year": 2010,
+        "LeadActor": "Leonardo DiCaprio",
+        "Format": "Blu-Ray",
+        "Price": 15.99,
+        "DeliveryMethod": "Нова пошта",
+        "PaymentMethod": "Готівка при отриманні"
+    },
+    {
+        "Code": 3,
+        "Title": "Interstellar",
+        "Director": "Christopher Nolan",
+        "Year": 2014,
+        "LeadActor": "Matthew McConaughey",
+        "Format": "Digital Download",
+        "Price": 9.99,
+        "CardType": "Visa",
+        "EmailAddress": "example@example.com"
+    }
+]

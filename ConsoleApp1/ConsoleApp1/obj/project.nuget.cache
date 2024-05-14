@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5um9e0no9QgcjMVKl3OohWUCRLXfbKsUS3YgwUwgUvMKwD1WaWqGiXq8EtjlYGphLMaifSKF6tWraR7Gj2toA==",
+  "success": true,
+  "projectFilePath": "/Users/a1/Desktop/Курсова робота/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/a1/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
